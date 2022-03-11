@@ -1,0 +1,148 @@
+{
+    "breakfast":[
+        {
+            "name": "banana",
+            "cal": 105
+        },
+        {
+            "name": "apple",
+            "cal": 95
+        },
+        {
+            "name": "cornflakes_with_milk",
+            "cal": 212
+        },
+        {
+            "name": "egg_sandwich",
+            "cal": 367
+        },
+        {
+            "name": "fried_egg",
+            "cal": 90
+        },
+        {
+            "name": "mashed_potato",
+            "cal": 237
+        },
+        {
+            "name": "milk",
+            "cal": 149
+        },
+        {
+            "name": "oatmeal_Cookies",
+            "cal": 135
+        },
+        {
+            "name": "sausage",
+            "cal": 150
+        },
+        {
+            "name": "toasted_cheese_sandwich",
+            "cal": 366
+        }
+    ],
+    "lunch":[
+        {
+            "name": "beef_fry",
+            "cal": 483
+        },
+        {
+            "name": "beef_stir_fry",
+            "cal": 394
+        },
+        {
+            "name": "chicken_and_pasta",
+            "cal": 396
+        },
+        {
+            "name": "chicken_curry_with_rice",
+            "cal": 400
+        },
+        {
+            "name": "chicken_fried_rice",
+            "cal": 288
+        },
+        {
+            "name": "fish_fry",
+            "cal": 199
+        },
+        {
+            "name": "fried_chicken_breast",
+            "cal": 364
+        },
+        {
+            "name": "fried_chicken_strips",
+            "cal": 224
+        },
+        {
+            "name": "fried_rice_with_beef",
+            "cal": 337
+        },
+        {
+            "name": "mushroom_soup",
+            "cal": 241
+        },
+        {
+            "name": "pasta_with_tomato_sauce",
+            "cal": 132
+        },
+        {
+            "name": "tomato_soup",
+            "cal": 170
+        },
+        {
+            "name": "tossed_vegetable_salad",
+            "cal": 100
+        }
+      ],
+    "dinner":[
+        {
+            "name": "beef_shish_kebab",
+            "cal": 364
+        },
+        {
+            "name": "cheese_pizza",
+            "cal": 171
+        },
+        {
+            "name": "chicken_kebap",
+            "cal": 440
+        },
+        {
+            "name": "egg_sandwich",
+            "cal": 367
+        },
+        {
+            "name": "fried_chicken_leg",
+            "cal": 360
+        },
+        {
+            "name": "fried_chicken_strips",
+            "cal": 224
+        },
+        {
+            "name": "fried_chicken_wing",
+            "cal": 336
+        },
+        {
+            "name": "fried_shrimp",
+            "cal": 380
+        },
+        {
+            "name": "orange",
+            "cal": 69
+        },
+        {
+            "name": "peach",
+            "cal": 68
+        },
+        {
+            "name": "pepperoni_pizza",
+            "cal": 325
+        },
+        {
+            "name": "yogurt",
+            "cal": 107
+        }
+        ]
+}

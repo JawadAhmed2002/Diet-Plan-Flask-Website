@@ -1,0 +1,34 @@
+{
+    "exercises":[
+        {
+            "name": "bicycle_crunches"
+        },
+        {
+            "name": "Bird_Dog"
+        },
+        {
+            "name": "Bridge"
+        },
+        {
+            "name": "jumping_jacks"
+        },
+        {
+            "name": "lunges "
+        },
+        {
+            "name": "plank"
+        },
+        {
+            "name": "push_ups"
+        },
+        {
+            "name": "side_lunge"
+        },
+        {
+            "name": "side_plank"
+        },
+        {
+            "name": "squats"
+        }
+    ]
+}
